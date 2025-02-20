@@ -31,4 +31,4 @@ jobs:
       uses: docker/build-push-action@v3
       with:
         push: true
-        tags: ghcr.io/${{github.repository}}:${{github.ref_name}}
+        tags: ghcr.io/oyatillo12/for-blog-site:main
