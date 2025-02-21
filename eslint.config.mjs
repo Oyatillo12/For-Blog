@@ -20,9 +20,6 @@ const eslintConfig = [
       "plugin:@next/next/recommended",
       "plugin:prettier/recommended"
     ],
-    "rules": {
-      "no-unused-vars": "off",
-    }
   }),
 
 ];
